@@ -17,7 +17,7 @@ This project demonstrates the implementation and comparison of various sorting a
 
 1. Ensure you have Python 3.6+ installed on your system.
 2. Clone this repository:
-git clone https://github.com/yourusername/sorting-algorithm-comparison.git
+git clone https://github.com/prodbas5/sorting-algorithm-comparison.git
 cd sorting-algorithm-comparison
 Copy3. Install the required dependencies:
 pip install tqdm matplotlib
